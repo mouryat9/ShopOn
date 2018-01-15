@@ -1,0 +1,10 @@
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.Entities\bin\Debug\Shopon.Entities.dll
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.Entities\bin\Debug\Shopon.Entities.pdb
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.Entities\obj\Debug\Shopon.Entities.csprojResolveAssemblyReference.cache
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.Entities\obj\Debug\Shopon.Entities.dll
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.Entities\obj\Debug\Shopon.Entities.pdb
+E:\Projects\Shopon\Shopon.Entities\bin\Debug\Shopon.Entities.dll
+E:\Projects\Shopon\Shopon.Entities\bin\Debug\Shopon.Entities.pdb
+E:\Projects\Shopon\Shopon.Entities\obj\Debug\Shopon.Entities.csprojResolveAssemblyReference.cache
+E:\Projects\Shopon\Shopon.Entities\obj\Debug\Shopon.Entities.dll
+E:\Projects\Shopon\Shopon.Entities\obj\Debug\Shopon.Entities.pdb

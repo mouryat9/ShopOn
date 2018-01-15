@@ -1,0 +1,15 @@
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\ShoponWindowApp.exe.config
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\ShoponWindowApp.exe
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\ShoponWindowApp.pdb
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\Shopon.Business.dll
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\Shopon.Entities.dll
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\Shopon.DataAccess.dll
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\Shopon.Business.pdb
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\Shopon.Entities.pdb
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\bin\Debug\Shopon.DataAccess.pdb
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\obj\Debug\ShoponWindowApp.csprojResolveAssemblyReference.cache
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\obj\Debug\ShoponWindowApp.Form1.resources
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\obj\Debug\ShoponWindowApp.Properties.Resources.resources
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\obj\Debug\ShoponWindowApp.csproj.GenerateResource.Cache
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\obj\Debug\ShoponWindowApp.exe
+E:\Students\RTD-Dec-17\Core\Shopon\ShoponWindowApp\obj\Debug\ShoponWindowApp.pdb

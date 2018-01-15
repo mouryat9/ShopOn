@@ -1,0 +1,14 @@
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.DataAccess\bin\Debug\Shopon.DataAccess.dll
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.DataAccess\bin\Debug\Shopon.DataAccess.pdb
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.DataAccess\bin\Debug\Shopon.Entities.dll
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.DataAccess\bin\Debug\Shopon.Entities.pdb
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.DataAccess\obj\Debug\Shopon.DataAccess.csprojResolveAssemblyReference.cache
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.DataAccess\obj\Debug\Shopon.DataAccess.dll
+E:\Students\RTD-Dec-17\Core\Shopon\Shopon.DataAccess\obj\Debug\Shopon.DataAccess.pdb
+E:\Projects\Shopon\Shopon.DataAccess\bin\Debug\Shopon.DataAccess.dll
+E:\Projects\Shopon\Shopon.DataAccess\bin\Debug\Shopon.DataAccess.pdb
+E:\Projects\Shopon\Shopon.DataAccess\bin\Debug\Shopon.Entities.dll
+E:\Projects\Shopon\Shopon.DataAccess\bin\Debug\Shopon.Entities.pdb
+E:\Projects\Shopon\Shopon.DataAccess\obj\Debug\Shopon.DataAccess.csprojResolveAssemblyReference.cache
+E:\Projects\Shopon\Shopon.DataAccess\obj\Debug\Shopon.DataAccess.dll
+E:\Projects\Shopon\Shopon.DataAccess\obj\Debug\Shopon.DataAccess.pdb
